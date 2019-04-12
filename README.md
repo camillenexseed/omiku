@@ -1,0 +1,2 @@
+# omiku
+omikuji for lesson
